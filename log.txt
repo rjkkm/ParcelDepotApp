@@ -1,0 +1,71 @@
+Customer added to queue: Andrew Robertson
+Customer added to queue: Ann Jones
+Customer added to queue: Blair Foster
+Customer added to queue: Bob Dawson
+Customer added to queue: Chris Smith
+Customer added to queue: Dave Jackson
+Customer added to queue: David Hunter
+Customer added to queue: Donald Murray
+Customer added to queue: Fiona Thoms
+Customer added to queue: Gillian Hamilton
+Customer added to queue: Harry Johnston
+Customer added to queue: Helen Webster
+Customer added to queue: Jack Houston
+Customer added to queue: Jo Hill
+Customer added to queue: Joe Woods
+Customer added to queue: John Brown
+Customer added to queue: Judy Hilman
+Customer added to queue: Keith Burns
+Customer added to queue: Lily Watson
+Customer added to queue: Lucy Grey
+Customer added to queue: Mary Brown
+Customer added to queue: Pamela Field
+Customer added to queue: Peter White
+Customer added to queue: Robert Murray
+Customer added to queue: Susan Turner
+Customer added to queue: Thomas Young
+Customer added to queue: Tim Smith
+Customer added to queue: Tony Lawson
+Customer added to queue: Ursula Milton
+Customer added to queue: Viola Nicholson
+Customer added to queue: test
+Customer added to queue: test
+Loaded customers from resources/Custs.csv
+Parcel added: X009
+Parcel added: X020
+Parcel added: X025
+Parcel added: X036
+Parcel added: X064
+Parcel added: X086
+Parcel added: X121
+Parcel added: X198
+Parcel added: X213
+Parcel added: X214
+Parcel added: X278
+Parcel added: X285
+Parcel added: X309
+Parcel added: X316
+Parcel added: X386
+Parcel added: X475
+Parcel added: X507
+Parcel added: X521
+Parcel added: X540
+Parcel added: X552
+Parcel added: X606
+Parcel added: X682
+Parcel added: X720
+Parcel added: X733
+Parcel added: X746
+Parcel added: X780
+Parcel added: X782
+Parcel added: X857
+Parcel added: X904
+Parcel added: X919
+Loaded parcels from resources/Parcels.csv
+Parcel added: 76
+Saved parcel to CSV: 76
+Added new parcel: 76
+Customer removed from queue: Andrew Robertson
+Processing customer: Andrew Robertson
+Parcel removed: X919
+Marked parcel as processed: X919 for customer: Andrew Robertson

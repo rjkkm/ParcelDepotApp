@@ -1,0 +1,120 @@
+Customer added to queue: Andrew Robertson
+Customer added to queue: Ann Jones
+Customer added to queue: Blair Foster
+Customer added to queue: Bob Dawson
+Customer added to queue: Chris Smith
+Customer added to queue: Dave Jackson
+Customer added to queue: David Hunter
+Customer added to queue: Donald Murray
+Customer added to queue: Fiona Thoms
+Customer added to queue: Gillian Hamilton
+Customer added to queue: Harry Johnston
+Customer added to queue: Helen Webster
+Customer added to queue: Jack Houston
+Customer added to queue: Jo Hill
+Customer added to queue: Joe Woods
+Customer added to queue: John Brown
+Customer added to queue: Judy Hilman
+Customer added to queue: Keith Burns
+Customer added to queue: Lily Watson
+Customer added to queue: Lucy Grey
+Customer added to queue: Mary Brown
+Customer added to queue: Pamela Field
+Customer added to queue: Peter White
+Customer added to queue: Robert Murray
+Customer added to queue: Susan Turner
+Customer added to queue: Thomas Young
+Customer added to queue: Tim Smith
+Customer added to queue: Tony Lawson
+Customer added to queue: Ursula Milton
+Customer added to queue: Viola Nicholson
+Parcel added: X009
+Parcel added: X020
+Parcel added: X025
+Parcel added: X036
+Parcel added: X064
+Parcel added: X086
+Parcel added: X121
+Parcel added: X198
+Parcel added: X213
+Parcel added: X214
+Parcel added: X278
+Parcel added: X285
+Parcel added: X309
+Parcel added: X316
+Parcel added: X386
+Parcel added: X475
+Parcel added: X507
+Parcel added: X521
+Parcel added: X540
+Parcel added: X552
+Parcel added: X606
+Parcel added: X682
+Parcel added: X720
+Parcel added: X733
+Parcel added: X746
+Parcel added: X780
+Parcel added: X782
+Parcel added: X857
+Parcel added: X904
+Parcel added: X919
+Customer removed from queue: Andrew Robertson
+Worker Test worker processed customer Andrew Robertson for parcel X919. Fee: $4.5
+Customer removed from queue: Ann Jones
+Worker Test worker processed customer Ann Jones for parcel X064. Fee: $7.0
+Customer removed from queue: Blair Foster
+Worker Test worker processed customer Blair Foster for parcel X682. Fee: $3.9000000000000004
+Customer removed from queue: Bob Dawson
+Worker Test worker processed customer Bob Dawson for parcel X780. Fee: $4.4
+Customer removed from queue: Chris Smith
+Worker Test worker processed customer Chris Smith for parcel X782. Fee: $4.9
+Customer removed from queue: Dave Jackson
+Worker Test worker processed customer Dave Jackson for parcel X316. Fee: $6.7
+Customer removed from queue: David Hunter
+Worker Test worker processed customer David Hunter for parcel X278. Fee: $4.7
+Customer removed from queue: Donald Murray
+Worker Test worker processed customer Donald Murray for parcel X720. Fee: $3.6
+Customer removed from queue: Fiona Thoms
+Worker Test worker processed customer Fiona Thoms for parcel X475. Fee: $4.2
+Customer removed from queue: Gillian Hamilton
+Worker Test worker processed customer Gillian Hamilton for parcel X386. Fee: $6.3
+Customer removed from queue: Harry Johnston
+Worker Test worker processed customer Harry Johnston for parcel X857. Fee: $2.8
+Customer removed from queue: Helen Webster
+Worker Test worker processed customer Helen Webster for parcel X309. Fee: $2.7
+Customer removed from queue: Jack Houston
+Worker Test worker processed customer Jack Houston for parcel X733. Fee: $5.2
+Customer removed from queue: Jo Hill
+Worker Test worker processed customer Jo Hill for parcel X285. Fee: $2.5
+Customer removed from queue: Joe Woods
+Worker Test worker processed customer Joe Woods for parcel X213. Fee: $5.0
+Customer removed from queue: John Brown
+Worker Test worker processed customer John Brown for parcel X009. Fee: $5.9
+Customer removed from queue: Judy Hilman
+Worker Test worker processed customer Judy Hilman for parcel X904. Fee: $5.0
+Customer removed from queue: Keith Burns
+Worker Test worker processed customer Keith Burns for parcel X552. Fee: $4.4
+Customer removed from queue: Lily Watson
+Worker Test worker processed customer Lily Watson for parcel X121. Fee: $2.7
+Customer removed from queue: Lucy Grey
+Worker Test worker processed customer Lucy Grey for parcel X025. Fee: $5.3
+Customer removed from queue: Mary Brown
+Worker Test worker processed customer Mary Brown for parcel X198. Fee: $6.5
+Customer removed from queue: Pamela Field
+Worker Test worker processed customer Pamela Field for parcel X521. Fee: $4.6
+Customer removed from queue: Peter White
+Worker Test worker processed customer Peter White for parcel X036. Fee: $6.4
+Customer removed from queue: Robert Murray
+Worker Test worker processed customer Robert Murray for parcel X606. Fee: $6.6
+Customer removed from queue: Susan Turner
+Worker Test worker processed customer Susan Turner for parcel X214. Fee: $3.5
+Customer removed from queue: Thomas Young
+Worker Test worker processed customer Thomas Young for parcel X507. Fee: $5.1
+Customer removed from queue: Tim Smith
+Worker Test worker processed customer Tim Smith for parcel X020. Fee: $3.3000000000000003
+Customer removed from queue: Tony Lawson
+Worker Test worker processed customer Tony Lawson for parcel X086. Fee: $6.1
+Customer removed from queue: Ursula Milton
+Worker Test worker processed customer Ursula Milton for parcel X746. Fee: $3.4000000000000004
+Customer removed from queue: Viola Nicholson
+Worker Test worker processed customer Viola Nicholson for parcel X540. Fee: $5.5

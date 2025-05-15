@@ -1,0 +1,48 @@
+used ubuntu ( windows stuck at blue screen )
+
+here are the steps to run 
+
+first install vscode on ubuntu , i used 22.4
+
+sudo apt-get update 
+
+sudo apt-get upgrade
+
+sudo snap install code --classic
+
+sudo apt update
+sudo apt install openjdk-17-jdk
+
+
+Open VS Code.
+Create a new folder for your Java app.
+Inside the folder, create a file named Main.java with the following code
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Ubuntu!");
+    }
+}
+
+click ctrl+j to open terminal run javac Main.java
+inside project directory 
+
+no errors no problem  run
+
+java Main
+
+got a hello word out , thank god everything java works 
+
+
+now lets start building 
+
+used 
+rm -rf bin/
+javac -d bin controller/*.java model/*.java view/*.java
+ 
+ to clear project and 
+
+ java -cp bin model.Manager
+ 
+
+ was used to run the project
